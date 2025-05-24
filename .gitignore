@@ -1,0 +1,27 @@
+
+# Build outputs
+# Dependencies
+# Environment variables
+# IDE specific files
+# Log files
+# OS generated files
+*.log
+*.njsproj
+*.ntvs*
+*.sln
+*.suo
+*.sw?
+.DS_Store
+.env
+.env.production
+.env.test
+.idea/
+.vscode/
+Thumbs.db
+coverage/
+dist/
+logs/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
